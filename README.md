@@ -1,5 +1,5 @@
 # Dank Memer X Auto Farm
-This was created with a small bit of help by SpicyCombo and the original code was made by him, all I did was update it for more commands and to work without using "pls search" as it would not do anything as in the update they made it so you had to click a button instead of typing.
+This was created with a small bit of help by SpicyCombo and the original code was made by him, all I did was update it for more commands and to work without using "pls search" as it would not do anything as in an update they made it so you had to click a button instead of typing which didn't let it do its' job from typing.
 
 #Instructions
 1. Just open, then listen to whatever it tells you. Then hover your cursor over the chat box you wish.
