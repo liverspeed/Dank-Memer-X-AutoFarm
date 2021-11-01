@@ -17,4 +17,6 @@ pls dig: Shovel
 pls hunt: Hunting Rifle
 
 #Version History
-There is none so far
+v1 Did the basic commands but very inefficient.
+
+v1.5 Does all possible commands for bank and was optimized extremely.
